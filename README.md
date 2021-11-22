@@ -1,5 +1,5 @@
 # Menu
-Моя проба пера в создании меню. 
+Моя четвертая программа и одновременно проба пера в создании меню. 
 Были созданы все типы: Options, Context, PopupMenu, BottomNavigation, Navigation Drawer. 
 Так же на ходу было сделано внутреннее мини-задание - запрограммировать изменение текста на Java так, чтобы в файле activity_navigation.xml при нажатии на Hello, он менялся на One, Two или Three при нажатии на кнопки меню BottomNavigation. 
 Так же были созданы три ключевых файла с разными видами меню: кроме обычного activity_main.xml, созданного по дефолту, есть так же activity_navigation.xml и activity_drawer.xml. 
